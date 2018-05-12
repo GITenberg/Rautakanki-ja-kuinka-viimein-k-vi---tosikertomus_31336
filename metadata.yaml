@@ -1,0 +1,32 @@
+_repo: Rautakanki-ja-kuinka-viimein-k-vi---tosikertomus_31336
+_version: 0.1.0
+alternative_title: 'The bar of iron : or, unsanctified affliction, a true story. Finnish'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tayler, Charles B. (Charles Benjamin)
+    aliases:
+    - Tayler, C. B. (Charles Benjamin)
+    - Taylor, Charles B. (Charles Benjamin)
+    - Tayler, Charles Benjamin
+    birthdate: 1797
+    deathdate: 1875
+    gutenberg_agent_id: '35161'
+    url: http://www.gutenberg.org/2009/agents/35161
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Benjamin_Tayler
+description: ''
+gutenberg_issued: '2010-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31336'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suffering -- Religious aspects -- Christianity'
+- !lcc 'BV'
+title: 'Rautakanki ja kuinka viimein kävi : tosikertomus'
+url: http://www.gutenberg.org/ebooks/31336
