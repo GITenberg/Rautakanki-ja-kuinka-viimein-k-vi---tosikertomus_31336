@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35161
     wikipedia: http://en.wikipedia.org/wiki/Charles_Benjamin_Tayler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31336#Rautakanki-ja-kuinka-viimein-k-vi---tosikertomus
 gutenberg_issued: '2010-02-21'
 gutenberg_type: Text
 identifiers:
